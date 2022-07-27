@@ -1,13 +1,8 @@
 {
-    "title": "The Basics - Networking",
-    "description": "Your app fetched this from a remote endpoint!",
-    "movies": [
-        {
-            "id": "1",
-            "name": "Aleksa",
-            "lastName": "Nikolajevic",
-          "Car model": "BMW 15973",
-          "email": "jam.bgprogrameri3@gmail.com"
-        }
-    ]
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "1", "title": "Star Wars", "releaseYear": "1977" }
+    
+  ]
 }
