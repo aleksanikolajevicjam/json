@@ -2,7 +2,7 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" }
+    { "id": "1", "title": "Aleksa", "releaseYear": "Nikolajevic", "carModel":"BMW 159756", "email":"jam.bgprogrameri3@gmail.com", "fuel":"1.7" }
     
   ]
 }
